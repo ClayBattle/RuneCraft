@@ -67,7 +67,6 @@ repositories {
 
 dependencies {
 	minecraft 'net.minecraftforge:forge:1.18.1-39.0.64'
-    implementation 'ninja.egg82:messenger-api:1.0.0-parks-20220101.005607-1@jar'
     }
 
 jar {
